@@ -2,6 +2,10 @@
 
 This project applies supervised and unsupervised classification techniques to information scraped from lyrics.com to determine musical genre tag. The Lyrics.com data set contains roughly 1 million songs, 10% of which have preassigned genre tags.
 
+# Project Files
+
+The main notebook detailing the analysis process is available in this repository <a href="https://github.com/ryanmswan/springboard_capstone_2/blob/master/notebooks/01.01.rms-Data_Cleaning-lyric_data.ipynb">HERE.</a>
+
 ==============================
 
 Project Organization
