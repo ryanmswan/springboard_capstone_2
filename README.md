@@ -4,7 +4,7 @@ This project applies supervised and unsupervised classification techniques to in
 
 # Project Files
 
-The main notebook detailing the analysis process is available in this repository <a href="https://github.com/ryanmswan/springboard_capstone_2/blob/master/notebooks/01.01.rms-Data_Cleaning-lyric_data.ipynb">HERE.</a>
+The main notebook detailing the analysis process is available in this repository <a href="https://github.com/ryanmswan/springboard_capstone_2/blob/master/notebooks/final_attempt_1.ipynb">HERE.</a>
 
 ==============================
 
